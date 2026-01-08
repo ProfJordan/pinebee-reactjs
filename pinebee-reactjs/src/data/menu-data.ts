@@ -12,8 +12,7 @@ interface MenuItem {
       link: string;
     }[];
   }[];
-}[];
-
+}
 
 const menu_data: MenuItem[]  = [
   {

@@ -16,7 +16,7 @@ interface Testimonial {
   text: string;
   name: string;
   role: string;
-  img: any;
+  img: string;
 }
 
 // ✅ Testimonial Data

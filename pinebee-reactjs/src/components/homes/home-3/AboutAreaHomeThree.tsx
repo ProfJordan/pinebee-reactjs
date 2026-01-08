@@ -15,7 +15,7 @@ export default function AboutAreaHomeThree() {
     const split = new SplitText(".WION_text_invert", { type: "lines" });
 
     // Animate each line
-    split.lines.forEach((line: any) => {
+    split.lines.forEach((line: Element) => {
       gsap.to(line, {
         backgroundPositionX: 0,
         ease: "none",

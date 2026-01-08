@@ -26,7 +26,7 @@ const HeaderTwo = () => {
             <div className="col-8 col-sm-auto ">
               <div className="header-logo">
                 <Link to="/">
-                  <img src="assets/images/logo/logo-dark.svg" alt="logo" />
+                  <img src="assets/images/logo/pinebee-dark.png" alt="logo" />
                 </Link>
               </div>
             </div>

@@ -163,8 +163,8 @@ const FooterOne = () => {
                   <div className="wionsub-title">
                     <p>Get in touch</p>
                   </div>
-                  <a href="mailto:name@gmail.com">
-                    <h2>support@gmail .com</h2>
+                  <a href="/contact-us1">
+                    <h2>Contact us</h2>
                   </a>
                 </div>
               </div>
